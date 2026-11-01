@@ -9,7 +9,7 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 I'm a student at **42 Angoulême**, passionate about computer science, programming and understanding how systems work.
 
@@ -19,16 +19,16 @@ I'm particularly interested in pursuing an **RNCP qualification in Algorithms, A
 
 I enjoy learning new technologies, tackling challenging problems and continuously improving my technical skills.
 
-## Areas of Interest
+## 🧩 Areas of Interest
 
-- 🧠 Algorithms & Data Structures
+- 🧮 Algorithms & Data Structures
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science & Data Analysis
 - 🔐 Cybersecurity & System Security
 - 💻 Low-level Programming
 - 🐧 Linux & Unix Systems
 
-## Technologies & Tools
+## ⚙️ Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -37,7 +37,7 @@ I enjoy learning new technologies, tackling challenging problems and continuousl
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-## Currently Learning
+## 📖 Currently Learning
 
 - C programming and memory management
 - Algorithms and problem solving
@@ -45,7 +45,7 @@ I enjoy learning new technologies, tackling challenging problems and continuousl
 - Unix / Linux fundamentals
 - Software development
 
-## Projects
+## 🗂️ Projects
 
 | Project | Description | Language |
 |:---|:---|:---:|
@@ -53,7 +53,7 @@ I enjoy learning new technologies, tackling challenging problems and continuousl
 | ft_printf | Custom implementation of printf | C |
 | get_next_line | Reading files line by line | C |
 
-## Contact Me
+## ✉️ Contact Me
 
 - 📧 **Email:** [tristan.morandiere.dev@gmail.com](mailto:tristan.morandiere.dev@gmail.com)
 - 🐙 **GitHub:** [My GitHub Profile](https://github.com/TizKuro)
