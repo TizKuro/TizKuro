@@ -61,5 +61,5 @@ I enjoy learning new technologies, tackling challenging problems and continuousl
 ---
 
 <p align="center">
-  <i>"Always learning, always building."</i>
+  <i>"Understanding how things work, building what comes next."</i>
 </p>
