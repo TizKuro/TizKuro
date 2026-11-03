@@ -57,7 +57,7 @@ I enjoy learning new technologies, tackling challenging problems and continuousl
 
 - 📧 **Email:** [tristan.morandiere.dev@gmail.com](mailto:tristan.morandiere.dev@gmail.com)
 - 🐙 **GitHub:** [My GitHub Profile](https://github.com/TizKuro)
-
+- 💬 **Discord:** [neptristan](https://discord.com/users/308610864142090241)
 ---
 
 <p align="center">
