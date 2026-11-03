@@ -49,8 +49,8 @@ I enjoy learning new technologies, tackling challenging problems and continuousl
 
 | Project | Description | Language |
 |:---|:---|:---:|
-| Libft | Reimplementation of standard C library functions | C |
-| ft_printf | Custom implementation of printf | C |
+| [Libft](https://github.com/TizKuro/libft) | Reimplementation of standard C library functions | C |
+| [ft_printf](https://github.com/TizKuro/ft_printf) | Custom implementation of printf | C |
 | get_next_line | Reading files line by line | C |
 
 ## ✉️ Contact Me
